@@ -16,7 +16,8 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-```<html>
+```
+<html>
 <title>Bio-Data</title>
 <style type="text/css">
     body
