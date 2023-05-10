@@ -71,7 +71,7 @@
 
 
 ## OUTPUT
-![Assignment5](https://github.com/Sujitha73/Ex05_Web-Design/assets/129753050/f79c3adf-c8ef-4fd2-91b7-699e76213759)
+
 ![Assignment5](https://github.com/Sujitha73/Ex05_Web-Design/assets/129753050/ac3cff8b-0ea3-4dcc-987e-2dd120d3833d)
 
 
